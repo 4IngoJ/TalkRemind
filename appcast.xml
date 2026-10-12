@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>TalkRemind</title>
-        <link>https://github.com/4IngoJ/TalkRemind-releases/releases/latest/download/appcast.xml</link>
+        <link>https://github.com/4IngoJ/TalkRemind/releases/latest/download/appcast.xml</link>
         <description>Update feed for TalkRemind.</description>
         <language>en</language>
         <item>
@@ -23,7 +23,7 @@
                   </ul>
                 ]]>
             </description>
-            <enclosure url="https://github.com/4IngoJ/TalkRemind-releases/releases/latest/download/TalkRemind-0.12.0.zip" length="6778208" type="application/octet-stream" sparkle:edSignature="95uaJ7xRFQuERGW0g9Su416MrrqECpxIlwa9VRzcP/9TaBPpMjGR1WLYv/DtwEIoiuMBLzAXSjVuBJ4csGStDA=="/>
+            <enclosure url="https://github.com/4IngoJ/TalkRemind/releases/latest/download/TalkRemind-0.12.0.zip" length="6778208" type="application/octet-stream" sparkle:edSignature="95uaJ7xRFQuERGW0g9Su416MrrqECpxIlwa9VRzcP/9TaBPpMjGR1WLYv/DtwEIoiuMBLzAXSjVuBJ4csGStDA=="/>
         </item>
     </channel>
 </rss>
