@@ -6,6 +6,28 @@
         <description>Update feed for TalkRemind.</description>
         <language>en</language>
         <item>
+            <title>Version 0.13.0</title>
+            <pubDate>Sat, 24 Oct 2026 13:05:34 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description>
+                <![CDATA[
+                  <h3>0.13.0</h3>
+                  <ul>
+                    <li>A new look across the app: nudges, menu bar icons, the statistics popover, Settings and onboarding.</li>
+                    <li>Typing in apps on the Exclusions tab no longer counts towards your dictation share.</li>
+                    <li>The dictation app lists show each app's icon, even if the app is not installed.</li>
+                    <li>Pause shows "Paused until" and a time, and it stays after a restart.</li>
+                    <li>Copy and paste work in every text field.</li>
+                    <li>Removed: the Cmd-Shift-Option-P pause shortcut. Pause lives in the menu bar and the statistics popover.</li>
+                    <li>The buy button no longer shows a price. The price is on the checkout page.</li>
+                  </ul>
+                ]]>
+            </description>
+            <enclosure url="https://github.com/4IngoJ/TalkRemind/releases/download/v0.13.0/TalkRemind-0.13.0.zip" length="8307488" type="application/octet-stream" sparkle:edSignature="qjNtj7nUpIbKi3RlG+6SHDSzMTv7azW3osdF5BJsg5FSO5AVrCxGdj+Ff2m8bcwdW8iooucSXYC/eW/VrPeJCQ=="/>
+        </item>
+        <item>
             <title>Version 0.12.0</title>
             <pubDate>Sat, 26 Sep 2026 19:55:06 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
